@@ -65,7 +65,7 @@ url = "https://www.aliyun.com/acts/limit-buy?userCode=jdg9oj97"
 [params.utteranc]
 enable = true 
 issueTerm = "pathname" 
-repo = "your github repo" ##换成自己得
+repo = "imporve1024/blog" ##换成自己得
 theme = "github-light" 
 ## 配置 waline 评论系统,教程参考 https://waline.js.org/
 [params.waline]
