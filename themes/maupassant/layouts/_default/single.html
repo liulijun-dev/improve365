@@ -24,7 +24,9 @@
             {{ .Content }}
         </div>
 
+        {{ if .Site.Params.params.cc.enable }}
         {{ partial "copyright" .}}
+        {{end}}
 
         {{ partial "related" . }}
 
