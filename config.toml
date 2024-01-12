@@ -1,6 +1,6 @@
 baseURL = "https://blog-improve365-defd19e77a84c20d8728e5bca79137ae79275004a86a2e9.gitlab.io" 
 googleAnalytics = "" # UA-XXXXXXXX-X/G-XXXXXXXXXX
-languageCode = "zh-CN" 
+languageCode = "zh-hans" 
 theme = "maupassant" 
 title = "不能止步" 
 
@@ -12,7 +12,7 @@ disablePathToLower = true
 hasCJKLanguage = true
 summaryLength = 140
 
-disqusShortname = "yourdiscussshortname" ## 是否开启disqus评论，不要和utteranc同时开启
+# disqusShortname = "yourdiscussshortname" ## 是否开启disqus评论，不要和utteranc同时开启
 
 [author]
 name = "Jimmy Liu"
@@ -42,18 +42,13 @@ name = "不能止步"
 title = "不能止步"
 url = "https://blog.csdn.net/l460133921/"
 
-# [[params.links]]
-# name = "Android Gradle权威指南"
-# title = "Android Gradle权威指南"
-# url = "http://yuedu.baidu.com/ebook/14a722970740be1e640e9a3e"
-
 ## 侧边栏广告位
 [[params.ads]]
-img = "https://img.alicdn.com/tfs/TB1_rYHo7P2gK0jSZPxXXacQpXa-690-388.jpg"
-title = "【2019双12】ALL IN CLoud 低至1折"
-url = "https://www.aliyun.com/minisite/goods?userCode=jdg9oj97&share_source=copy_link"
+img = "https://img.alicdn.com/imgextra/i3/O1CN01olndvC20XTHIIKZkq_!!6000000006859-0-tps-3840-720.jpg"
+title = "云服务器省钱攻略"
+url = "https://www.aliyun.com/minisite/goods?userCode=gg98qkpg"
 [[params.ads]]
-img = "https://upload-dianshi-1255598498.file.myqcloud.com/345-7c71532bd4935fbdd9a67c1a71e577b1767b805c.200%E7%89%88%E6%9C%ACB.jpg"
+img = "https://img.alicdn.com/imgextra/i3/O1CN01olndvC20XTHIIKZkq_!!6000000006859-0-tps-3840-720.jpg"
 title = "助力产业智慧升级，云服务器首年88元起，更有千元代金券礼包免费领！"
 url = "https://cloud.tencent.com/act/cps/redirect?redirect=1048&cps_key=14ff722692ac784fa8c3301c8c28d924&from=console"
 [[params.ads]]
