@@ -1,6 +1,6 @@
-baseURL = "https://blog-improve365-defd19e77a84c20d8728e5bca79137ae79275004a86a2e9.gitlab.io" 
+baseURL = "https://improve1024.github.io/blog/" 
 googleAnalytics = "" # UA-XXXXXXXX-X/G-XXXXXXXXXX
-languageCode = "zh-hans" 
+defaultContentLanguage = "zh-hans"
 theme = "maupassant" 
 title = "不能止步" 
 
