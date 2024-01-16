@@ -1,4 +1,4 @@
-baseURL = "https://improve1024.github.io/blog/" 
+baseURL = "https://www.improve365.xyz/" 
 googleAnalytics = "" # UA-XXXXXXXX-X/G-XXXXXXXXXX
 defaultContentLanguage = "zh-hans"
 theme = "maupassant" 
